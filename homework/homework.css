@@ -1,0 +1,41 @@
+img{
+    width: 1350px;
+    height: 1300px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+body{
+    text-align: center;
+}
+.bro{
+    color:red;
+    font-size: large;
+}
+.book{
+    background-color: whitesmoke;
+}
+
+
+.button{
+    background-color: black;
+    color: white;
+    outline: none;
+    padding: 5px;
+    width: 190px;
+}
+.button:hover {
+    background:white;
+    color: black;
+}
+input{
+    padding: 5px;
+}
+.footer{
+    color: black;
+}
+.hokage{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: normal;
+}

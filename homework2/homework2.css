@@ -1,0 +1,42 @@
+hr{
+    margin: auto;
+    width: 150px;
+    text-align: left;
+    margin-left: 600px;
+}
+header{
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 30px;
+}
+.naruto{
+    text-align: center;
+    margin-top: 200px;
+}
+.page{
+    background-image: url("../image/Forest.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+    height: 800px;
+}
+header{
+    color: white;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+footer{
+    color: white;
+    padding-top: 600px;
+}
+a{
+    color:white;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 10px;
+}
